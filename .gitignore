@@ -5,3 +5,4 @@
 /web/dist
 /web/.tanstack
 /web/.vscode
+/web/src/router/router.gen.ts
