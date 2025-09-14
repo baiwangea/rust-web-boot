@@ -6,3 +6,4 @@
 /web/.tanstack
 /web/.vscode
 /web/src/router/router.gen.ts
+/web/pnpm-lock.yaml
